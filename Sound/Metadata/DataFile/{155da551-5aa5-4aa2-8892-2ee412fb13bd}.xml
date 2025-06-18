@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{155da551-5aa5-4aa2-8892-2ee412fb13bd}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Sample_A_Sound_Effect/A_Sound_Effect_NOX_SOUND.url</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{5c05a516-25ed-428e-a384-de3c48f325b1}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Essentials_Series_README.pdf</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>

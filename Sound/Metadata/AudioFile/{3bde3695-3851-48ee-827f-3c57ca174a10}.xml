@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3bde3695-3851-48ee-827f-3c57ca174a10}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Voices_Essentials_NOX_SOUND/Voice_Female/Voice_Female_Breath/Voice_Female_V1_Breath_Moderate_Sequence_Mono_01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>13.658270833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>

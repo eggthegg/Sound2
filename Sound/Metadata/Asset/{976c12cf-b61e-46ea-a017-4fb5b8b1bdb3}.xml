@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{976c12cf-b61e-46ea-a017-4fb5b8b1bdb3}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Electromagnetic_NOX_SOUND/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>

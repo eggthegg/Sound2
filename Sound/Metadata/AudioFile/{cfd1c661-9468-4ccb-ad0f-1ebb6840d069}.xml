@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cfd1c661-9468-4ccb-ad0f-1ebb6840d069}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Iceland_Packs_NOX_SOUND/Iceland_Footsteps_Pack_NOX_SOUND/Footsteps_Iceland_Walk/Footsteps_Iceland_Walk_Black_Pebble_Mono_09.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.54108333333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>

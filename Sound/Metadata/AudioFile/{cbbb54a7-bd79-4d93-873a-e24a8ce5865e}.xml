@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cbbb54a7-bd79-4d93-873a-e24a8ce5865e}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Electromagnetic_NOX_SOUND/Electromagnetic_Computer_Idle_Loop_Mono_Elektrousi_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>9.9973958333333339</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>

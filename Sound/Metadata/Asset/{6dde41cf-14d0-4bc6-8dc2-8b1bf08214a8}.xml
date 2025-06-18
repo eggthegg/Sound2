@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{6dde41cf-14d0-4bc6-8dc2-8b1bf08214a8}">
+		<property name="assetPath">
+			<value>Essentials_Series_NOX_SOUND/Iceland_Packs_NOX_SOUND/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ef9bc77-96c5-4706-85dc-a4f41e1fce60}</destination>
+		</relationship>
+	</object>
+</objects>
